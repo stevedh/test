@@ -6,5 +6,6 @@ const NormalSdk = require("@normalframework/applications-sdk");
  * @returns {NormalSdk.InvokeResult}
  */
 module.exports = async ({points, sdk, update, args}) => {
+  // this is a comment
   return console.log(points.length)
 };
