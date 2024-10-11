@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "entryPoint": "/example.js",
+  "points": {
+    "layer": "hpl:bacnet:1",
+    "query": {
+      "field": {
+        "text": "NAE"
+      }
+    },
+    "groups": {}
+  }
+}
